@@ -55,6 +55,11 @@ This project focuses on automating breast cancer detection using deep learning t
 
 Upload a mammogram or ultrasound image, and the model will predict if the tumor is **Benign** or **Malignant** with a confidence score.
 
+![Screenshot 2025-04-26 112153](https://github.com/user-attachments/assets/c4febb09-7fe0-4f71-8ea5-a0b7170943a5)
+![Screenshot 2025-04-26 112210](https://github.com/user-attachments/assets/459893f3-4997-4388-b89a-218296637a7d)
+![Screenshot 2025-04-26 112121](https://github.com/user-attachments/assets/c777773d-9f7d-40bf-a227-b2bad04c07d3)
+
+
 ## 🔍 Future Scope
 
 - Add MRI and thermographic image support.
@@ -65,12 +70,6 @@ Upload a mammogram or ultrasound image, and the model will predict if the tumor 
 ## 📚 References
 
 Refer to the project report for all research citations, datasets used, and detailed explanations of methods.
-
-Project Interface
-
-![Screenshot 2025-04-26 112153](https://github.com/user-attachments/assets/c4febb09-7fe0-4f71-8ea5-a0b7170943a5)
-![Screenshot 2025-04-26 112210](https://github.com/user-attachments/assets/459893f3-4997-4388-b89a-218296637a7d)
-![Screenshot 2025-04-26 112121](https://github.com/user-attachments/assets/c777773d-9f7d-40bf-a227-b2bad04c07d3)
 
 DataSet
 
